@@ -3,7 +3,7 @@ This is a tic-tac-toe game developed in Python.
   
 This game is played on a grid that is three squares by three squares, where player one uses x's. Player two uses o's.
 
-The purpose of creating this program was to practice the uses of clases, and loops in phyton.
+The purpose of creating this program was to practice the uses of clases, and loops in Python.
 
 # Development Environment
 
